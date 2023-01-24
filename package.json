@@ -9,7 +9,7 @@
     "server": "nodemon server.js",
     "data:import": "node seeder.js"
   },
-  "author": "",
+  "author": "Mugesh Kumar K",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
