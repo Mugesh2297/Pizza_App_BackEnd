@@ -24,7 +24,7 @@ app.use(morgan('dev'));
 
 
 const corsOptions ={
-    origin:'https://pizzaapp22.netlify.app/', 
+    origin:'https://pizzaapp22.netlify.app', 
     credentials:true,            //access-control-allow-credentials:true
     optionSuccessStatus:200
 }
